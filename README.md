@@ -2,4 +2,4 @@
 To Do List app for ios
 Here's an example of what we are looking for: 
 
-![alt text](/todolist.gif)
+![alt text](/todolist.mov)
